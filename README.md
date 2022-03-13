@@ -10,4 +10,8 @@ In this project, there are three different classifiers used for prediction.
 
 3.Logistic Regression 
 
+4.SVM 
+
 Test accuracy 86%.
+
+For SVM got 84% Test Accuracy.
